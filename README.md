@@ -48,21 +48,21 @@
   <summary><b>⚡ Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p1nheiros&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1nheiros&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinheirosdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinheirosdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </details>
 
 <details>	
   <summary><b>☄️ Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p1nheiros&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pinheirosdev&theme=dark&hide_border=true" />
 </details>
 
 <details>	
   <summary><b>🏆 Trophies</b></summary>
 
   <br />
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p1nheiros&theme=discord" alt="p1nheiros" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinheirosdev&theme=discord" alt="p1nheiros" /></a> 
 </details>
 </details>
