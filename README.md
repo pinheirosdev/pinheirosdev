@@ -7,7 +7,7 @@
 > -  📫 &nbsp;How to reach me cttpinheiros.dev@gmail.com
 
 ### 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,mysql,postgres,git,github,postman,azure,aws,vscode,visualstudio,figma)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,js,ts,react,sqlserver,mysql,git,github,postman,azure,aws)
 
 ### 📊 GitHub Stats
 
