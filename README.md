@@ -4,7 +4,7 @@
 
 > -  🎯 &nbsp;Full Stack Developer
 > -  🎓 &nbsp;Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a>
-> -  📫 &nbsp;How to reach me cttpinheiros.dev@gmail.com
+> -  📫 &nbsp;How to reach me pinheiros.dev@gmail.com
 
 ### 🛠️ Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,js,ts,react,sqlserver,git,github,postman,azure,aws)
