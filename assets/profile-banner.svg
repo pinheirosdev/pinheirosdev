@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title">
-  <title id="title">Lucas Pinheiro, Full Stack Developer</title>
+  <title id="title">Lucas Pinheiro, Full Stack Developer focused on APIs, integrations, and AI-assisted development</title>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#152138"/>
@@ -16,6 +16,36 @@
     <clipPath id="card">
       <rect width="1120" height="280" rx="28"/>
     </clipPath>
+    <symbol id="csharp" viewBox="0 0 24 24">
+      <path d="m12 1.5 9 5.25v10.5l-9 5.25-9-5.25V6.75Z" fill="#6845a8" stroke="#c8aeff"/>
+      <path d="M11.6 8.3a3.9 3.9 0 1 0 0 7.4" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="m14.3 9.7-1 4.6m3.5-4.6-1 4.6m-2.9-3.2H18m-5.6 1.9h5" fill="none" stroke="#fff" stroke-width="1" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="dotnet" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="10.5" fill="#6243b7" stroke="#c8aeff"/>
+      <text x="12" y="14.4" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="7.6" font-weight="800" text-anchor="middle">.NET</text>
+    </symbol>
+    <symbol id="react" viewBox="0 0 24 24">
+      <g fill="none" stroke="#78e4ff" stroke-width="1.3">
+        <ellipse cx="12" cy="12" rx="10.2" ry="4"/>
+        <ellipse cx="12" cy="12" rx="10.2" ry="4" transform="rotate(60 12 12)"/>
+        <ellipse cx="12" cy="12" rx="10.2" ry="4" transform="rotate(120 12 12)"/>
+      </g>
+      <circle cx="12" cy="12" r="1.7" fill="#78e4ff"/>
+    </symbol>
+    <symbol id="rest-api" viewBox="0 0 24 24">
+      <path d="M3 7h17m-4-4 4 4-4 4M21 17H4m4-4-4 4 4 4" fill="none" stroke="#a4d2ff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+    <symbol id="sqlserver" viewBox="0 0 24 24">
+      <g fill="none" stroke="#82e3d7" stroke-width="1.6">
+        <ellipse cx="12" cy="5.5" rx="7.5" ry="3.4"/>
+        <path d="M4.5 5.5v13c0 1.9 3.36 3.4 7.5 3.4s7.5-1.5 7.5-3.4v-13M4.5 12c0 1.9 3.36 3.4 7.5 3.4s7.5-1.5 7.5-3.4"/>
+      </g>
+    </symbol>
+    <symbol id="aws" viewBox="0 0 24 24">
+      <path d="M6.5 17h11a4.2 4.2 0 0 0 .6-8.36 6.15 6.15 0 0 0-11.5 1.1A3.65 3.65 0 0 0 6.5 17Z" fill="none" stroke="#ffc17d" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M8 20.5c2.35 1.1 5.5 1.1 8-.15" fill="none" stroke="#ffc17d" stroke-width="1.6" stroke-linecap="round"/>
+    </symbol>
   </defs>
 
   <g clip-path="url(#card)">
@@ -32,26 +62,36 @@
       <text x="55" y="148" fill="#f5f7ff" font-size="68" font-weight="700" letter-spacing="-2.5">Lucas Pinheiro</text>
       <text x="60" y="187" fill="#c8d2e9" font-size="28" font-weight="500">Full Stack Developer</text>
       <rect x="60" y="217" width="32" height="3" rx="1.5" fill="url(#accent)"/>
-      <text x="105" y="224" fill="#8fe8dd" font-size="16" font-weight="700" letter-spacing="1.1">C# / .NET · E-COMMERCE · AI</text>
+      <text x="105" y="224" fill="#8fe8dd" font-size="16" font-weight="700" letter-spacing="1.1">APIs &amp; INTEGRATIONS · AI-ASSISTED DEVELOPMENT</text>
     </g>
 
     <g fill="none" stroke="#93c5fd" stroke-opacity=".57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M709 140H774M774 79V201M774 79H815M774 140H835M774 201H815"/>
+      <path d="M709 140H774M774 79V201M774 79H798M774 140H816M774 201H798"/>
       <circle cx="774" cy="79" r="4" fill="#111b30"/>
       <circle cx="774" cy="140" r="4" fill="#111b30"/>
       <circle cx="774" cy="201" r="4" fill="#111b30"/>
       <circle cx="709" cy="140" r="6" fill="#182f40" stroke="#62e1d0" stroke-opacity="1"/>
     </g>
-    <g font-family="Consolas, Liberation Mono, monospace" font-size="16" font-weight="700">
-      <rect x="815" y="57" width="213" height="44" rx="12" fill="#17233d" stroke="#757ec6"/>
-      <rect x="835" y="118" width="213" height="44" rx="12" fill="#152d42" stroke="#648fb0"/>
-      <rect x="815" y="179" width="213" height="44" rx="12" fill="#12353b" stroke="#58a79e"/>
-      <text x="832" y="85" fill="#bcbaff">01</text>
-      <text x="868" y="85" fill="#f0efff">APIs</text>
-      <text x="852" y="146" fill="#a6d7ff">02</text>
-      <text x="888" y="146" fill="#e9f4ff">INTEGRATIONS</text>
-      <text x="832" y="207" fill="#9cf3e3">03</text>
-      <text x="868" y="207" fill="#eafffa">AUTOMATION</text>
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">
+      <rect x="798" y="57" width="254" height="44" rx="12" fill="#17233d" stroke="#757ec6"/>
+      <rect x="816" y="118" width="254" height="44" rx="12" fill="#152d42" stroke="#648fb0"/>
+      <rect x="798" y="179" width="254" height="44" rx="12" fill="#12353b" stroke="#58a79e"/>
+      <path d="M935 68v22m0 39v22m0 39v22" fill="none" stroke="#cbd5e1" stroke-opacity=".28"/>
+
+      <use href="#csharp" x="814" y="67" width="24" height="24"/>
+      <text x="846" y="85" fill="#f0efff">C#</text>
+      <use href="#dotnet" x="948" y="67" width="24" height="24"/>
+      <text x="979" y="85" fill="#f0efff">.NET</text>
+
+      <use href="#react" x="831" y="128" width="24" height="24"/>
+      <text x="862" y="146" fill="#e9f4ff">React</text>
+      <use href="#rest-api" x="948" y="128" width="24" height="24"/>
+      <text x="979" y="146" fill="#e9f4ff">REST APIs</text>
+
+      <use href="#sqlserver" x="814" y="189" width="24" height="24"/>
+      <text x="846" y="207" fill="#eafffa">SQL Server</text>
+      <use href="#aws" x="948" y="189" width="24" height="24"/>
+      <text x="979" y="207" fill="#eafffa">AWS</text>
     </g>
   </g>
   <rect x=".5" y=".5" width="1119" height="279" rx="27.5" fill="none" stroke="#7785b1" stroke-opacity=".35"/>
