@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title">
+  <title id="title">Lucas Pinheiro, Full Stack Developer</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#152138"/>
+      <stop offset=".65" stop-color="#0c1425"/>
+      <stop offset="1" stop-color="#0a232b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#a4a6ff"/>
+      <stop offset="1" stop-color="#62e1d0"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#a5b4fc" stroke-opacity=".13"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="1120" height="280" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1120" height="280" fill="url(#background)"/>
+    <path d="M733 0H1120V280H606Z" fill="url(#grid)"/>
+    <path d="M733 0 606 280" fill="none" stroke="#9ca6f1" stroke-opacity=".25"/>
+    <rect width="1120" height="4" fill="url(#accent)"/>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <rect x="59" y="43" width="170" height="33" rx="16.5" fill="#1d3047" stroke="#455c73"/>
+      <circle cx="76" cy="59.5" r="3.5" fill="#62e1d0"/>
+      <text x="88" y="65" fill="#e0e9f5" font-size="14" font-weight="700" letter-spacing="2">PINHEIROS DEV</text>
+
+      <text x="55" y="148" fill="#f5f7ff" font-size="68" font-weight="700" letter-spacing="-2.5">Lucas Pinheiro</text>
+      <text x="60" y="187" fill="#c8d2e9" font-size="28" font-weight="500">Full Stack Developer</text>
+      <rect x="60" y="217" width="32" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="105" y="224" fill="#8fe8dd" font-size="16" font-weight="700" letter-spacing="1.1">C# / .NET · E-COMMERCE · AI</text>
+    </g>
+
+    <g fill="none" stroke="#93c5fd" stroke-opacity=".57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M709 140H774M774 79V201M774 79H815M774 140H835M774 201H815"/>
+      <circle cx="774" cy="79" r="4" fill="#111b30"/>
+      <circle cx="774" cy="140" r="4" fill="#111b30"/>
+      <circle cx="774" cy="201" r="4" fill="#111b30"/>
+      <circle cx="709" cy="140" r="6" fill="#182f40" stroke="#62e1d0" stroke-opacity="1"/>
+    </g>
+    <g font-family="Consolas, Liberation Mono, monospace" font-size="16" font-weight="700">
+      <rect x="815" y="57" width="213" height="44" rx="12" fill="#17233d" stroke="#757ec6"/>
+      <rect x="835" y="118" width="213" height="44" rx="12" fill="#152d42" stroke="#648fb0"/>
+      <rect x="815" y="179" width="213" height="44" rx="12" fill="#12353b" stroke="#58a79e"/>
+      <text x="832" y="85" fill="#bcbaff">01</text>
+      <text x="868" y="85" fill="#f0efff">APIs</text>
+      <text x="852" y="146" fill="#a6d7ff">02</text>
+      <text x="888" y="146" fill="#e9f4ff">INTEGRATIONS</text>
+      <text x="832" y="207" fill="#9cf3e3">03</text>
+      <text x="868" y="207" fill="#eafffa">AUTOMATION</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1119" height="279" rx="27.5" fill="none" stroke="#7785b1" stroke-opacity=".35"/>
+</svg>
